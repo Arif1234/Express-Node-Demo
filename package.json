@@ -1,0 +1,23 @@
+{
+  "name": "ecpress-app",
+  "version": "1.0.0",
+  "description": "Express Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arif1234/Express-Node-Demo.git"
+  },
+  "author": "Mohammad Tasleem Arif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arif1234/Express-Node-Demo/issues"
+  },
+  "homepage": "https://github.com/Arif1234/Express-Node-Demo#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "joi": "^14.0.1"
+  }
+}
